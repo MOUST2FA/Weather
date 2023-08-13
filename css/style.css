@@ -1,0 +1,204 @@
+.nav_1 {
+
+    background-color: hsl(231, 18%, 15%);
+}
+
+.imgs1 img {
+    width: 60px;
+    cursor: pointer;
+}
+
+.text_a a {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0px 15px;
+    color: #fff;
+}
+
+.text_a p {
+    font-size: 10px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+}
+
+.amet a {
+    border: 2px solid rgb(44, 163, 231);
+    border-radius: 40px;
+    color: rgb(44, 163, 231) !important;
+    width: 100px;
+    text-align: center;
+}
+
+li a:hover {
+    border: 2px solid rgb(44, 163, 231);
+    border-radius: 40px;
+    color: rgb(44, 163, 231) !important;
+    width: auto;
+    text-align: center;
+
+}
+
+.addimg {
+    background-image: url(../imgs/banner.png);
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+}
+
+.for {
+    position: relative;
+}
+
+.for input {
+    width: 100%;
+    height: 50px;
+    margin-top: 80px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: hsl(231, 18%, 15%);
+    padding: 0px 20px;
+    color: #fff;
+}
+
+.for button {
+    border: 2px solid rgb(44, 163, 231);
+    background-color: rgb(44, 163, 231);
+    color: #fff;
+    font-weight: 600;
+    padding: 8px 30px;
+    border-radius: 30px;
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+    z-index: 111;
+}
+
+
+.addcolor {
+    background-color: hsl(231, 18%, 15%);
+    width: 100%;
+    height: 250px;
+}
+
+.btn1 {
+    position: relative;
+}
+
+.btn1 input {
+    width: 100%;
+    height: 50px;
+    padding: 15px;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    background-color: hsl(231, 18%, 15%);
+    color: #fff;
+}
+
+.btn1 button {
+    border: 2px solid rgb(44, 163, 231);
+    background-color: rgb(44, 163, 231);
+    color: #fff;
+    font-weight: 600;
+    padding: 8px 20px;
+    border-radius: 30px;
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    z-index: 111;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    border: 2px solid hsl(231, 18%, 15%);
+    border-radius: 20px;
+    background-color: hsl(231, 18%, 15%);
+    color: rgb(44, 163, 231);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    transition: .5s;
+}
+
+.icon:hover {
+    border: rgb(44, 163, 231);
+    background-color: rgb(44, 163, 231);
+    color: #fff;
+    cursor: pointer;
+}
+
+.sectin {
+    background-color: rgb(38, 41, 54);
+}
+
+.demo {
+    background-color: rgb(47, 51, 66);
+    color: #fff;
+    margin-top: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.flex_1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 10px;
+    background-color: rgb(45, 48, 61);
+    border-top-left-radius: 10px;
+    
+}
+
+.demo_1 {
+    background-color: rgb(38, 41, 54);
+    color: #fff;
+    margin-top: 50px;
+}
+
+.flex_2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 10px;
+    background-color: rgb(34, 37, 48);
+}
+
+.demo_2 {
+    background-color: rgb(47, 51, 66);
+    color: #fff;
+    margin-top: 50px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.flex_3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 10px;
+    background-color: rgb(45, 48, 61);
+    border-top-right-radius: 10px;
+}
+
+.addstyle {
+    display: flex;
+}
+
+.text_t h2 {
+    font-size: 60px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mor h2 {
+    margin-top: 18px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.mor p {
+    font-size: 20px;
+    color: #dfdbdb;
+}
